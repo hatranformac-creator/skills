@@ -1,6 +1,6 @@
 # FILM: Smokey — The Morning
 
-Status: ◐ Brief ☐ World ☐ Character ☐ Shots ☐ Master Prompt ☐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
+Status: ⏸ Deferred to after 11 Nov 2026 credit renewal · ◐ Brief ☐ World ☐ Character ☐ Shots ☐ Master Prompt ☐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
 
 ## 0. Brief Card
 - Title: Smokey — The Morning
