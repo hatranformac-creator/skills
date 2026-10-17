@@ -1,6 +1,6 @@
 # FILM: Smokey — The Morning
 
-Status: ▶ In production (Oct 2026 credits) · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ◐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
+Status: ▶ In production (Oct 2026 credits) · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ☑ Sheet ☑ Plates ◐ Keyframes (awaiting review) ☐ Clips ☐ Cut
 
 ## 0. Brief Card
 - Title: Smokey — The Morning
@@ -55,7 +55,7 @@ Continuity table:
 | Eyes half-lidded | 5 | — |
 | Yawn → chin settles on paws, eyes closed, tiny pink tongue tip left poking out (the blep) | 6 | final state — the last frame |
 
-Character sheet v1: job 46385862-e337-4931-833e-9a9048d5c338 (gpt_image_2_5, high, 2k, 2.75 cr) — awaiting user approval
+Approved character sheet: job 46385862-e337-4931-833e-9a9048d5c338 (gpt_image_2_5, high, 2k, 2.75 cr) — APPROVED by user 17 Oct
 Reference media ids: 01eaadd7-b056-4cd4-8f57-d507dc26f070 (ref-01) · 130ed0d2-c5fb-4e9f-9dc0-120eab422edd (ref-06) · 6dbd0777-c1be-42cd-9429-82f2d7feb4e1 (ref-07) · ee6f261f-47ed-43ad-abb0-d2901aa5f5fe (ref-09)
 
 ## 3. Shot Breakdown
@@ -123,10 +123,23 @@ Keyframes are 9:16. Each clip is generated at the model's minimum (~5s), with th
 **Voice-over (generate_audio / TTS):** Dry, slow, posh British male voice: "Humans chase time." [0.6s pause] "I simply let it come to me."
 
 ## 5. Production log
-| # | Keyframe prompt | Keyframe id | Motion prompt | Model | Gen dur | Clip id | Trim in/out | OK? |
-|---|---|---|---|---|---|---|---|---|
+Plates (gpt_image_2_5, 9:16, high, 2k, 2.75 cr each):
+- L2 Street plate: job 6f652cd9-a5a1-4b31-aa12-5886cbe11f03
+- L3 Throne plate: job ff1fa093-9526-4d87-b714-4aada2f39564
 
-Credits quoted: 120–200 (cap 200) · Credits spent: 2.75
+| # | Keyframe id | Refs | Model | Gen dur | Clip id | Trim in/out | OK? |
+|---|---|---|---|---|---|---|---|
+| 1 | fe24e421-b969-42b3-a0b2-fbe6178deaf5 | L2 plate | kling3_0 pro | 5s | | →2.500 | |
+| 2 | a15d8393-6d5d-4281-908c-5abc15354319 | L2 plate | kling3_0 pro | 5s | | →1.875 | |
+| 3 | eaa397a9-cdce-437c-9020-b7b2d93fa587 | L2 plate | kling3_0 pro | 5s | | →1.250 | |
+| 4 | 05230761-60bb-439b-bd2a-4c79f4376d76 | sheet + L3 | kling3_0 pro | 5s | | →3.125 | |
+| 5 | de4c57a0-c736-47cd-a50f-2e4bc7de9d4b | sheet + L3 | kling3_0 pro | 5s | | →3.125 | |
+| 6 | a004337f-af5f-4528-a487-28a238e589da | sheet + L3 | kling3_0 pro | 5s | | →3.125 | |
+
+Clip price check (5s, 9:16, silent): kling3_0 pro 8.75 · kling3_0 4k 30 · seedance_2_0 fast 720p 12.5 · seedance_2_0 std 1080p 60
+VO price check: seed_audio preset "Arthur" 0.4
+
+Credits quoted: 120–200 (cap 200) · Credits spent: 24.75 (sheet 2.75 + plates 5.5 + keyframes 16.5)
 
 ## 6. Reference assets
 - assets/ref/smokey-01..10.jpg — 10 real photos of Smokey (identity source for the character sheet; feed 01, 06, 07 as primary references)
