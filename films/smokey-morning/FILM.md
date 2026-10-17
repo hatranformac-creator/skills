@@ -1,6 +1,6 @@
 # FILM: Smokey — The Morning
 
-Status: ⏸ Deferred to after 11 Nov 2026 credit renewal · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ☐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
+Status: ▶ In production (Oct 2026 credits) · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ◐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
 
 ## 0. Brief Card
 - Title: Smokey — The Morning
@@ -9,7 +9,8 @@ Status: ⏸ Deferred to after 11 Nov 2026 credit renewal · ☑ Brief ☑ World 
 - Style: hyper-real cinematic, bright golden-hour, epic orchestral scale on a small subject
 - Emotional arc: setup (epic rush of the human world) → turn (camera finds Smokey, totally still) → payoff ("Humans chase time. I simply let it come to me." + yawn)
 - Dialogue (British, dry, posh): L1 "Humans chase time." · L2 "I simply let it come to me."
-- Budget ceiling: TBD (balance 438.5 credits, pro plan)
+- Budget ceiling: 200 credits (balance 438.5, pro plan, resets ~11 Nov)
+- Voice: voice-over (no lip-sync) · Music: none baked in — add a TikTok sound in-app (drop at 5.6s, chord at 12.8s)
 
 ## 1. World Bible  (LOCKED)
 WORLD LINE: A sunlit London-inspired city on a golden-hour morning, honey-stone Georgian townhouses with white sash windows and red geraniums, cobbled streets and rooftops shared by hurrying humans and street cats, warm low sun raking down the street, soft haze and gold dust motes in the air.
@@ -54,7 +55,8 @@ Continuity table:
 | Eyes half-lidded | 5 | — |
 | Yawn → chin settles on paws, eyes closed, tiny pink tongue tip left poking out (the blep) | 6 | final state — the last frame |
 
-Approved character sheet: _pending (generate next month)_
+Character sheet v1: job 46385862-e337-4931-833e-9a9048d5c338 (gpt_image_2_5, high, 2k, 2.75 cr) — awaiting user approval
+Reference media ids: 01eaadd7-b056-4cd4-8f57-d507dc26f070 (ref-01) · 130ed0d2-c5fb-4e9f-9dc0-120eab422edd (ref-06) · 6dbd0777-c1be-42cd-9429-82f2d7feb4e1 (ref-07) · ee6f261f-47ed-43ad-abb0-d2901aa5f5fe (ref-09)
 
 ## 3. Shot Breakdown
 Grid: 96 BPM → beat 0.625s, bar 2.5s, 24 beats = 15.00s exactly. (Nudged from 95 so the film lands on whole beats.)
@@ -124,7 +126,7 @@ Keyframes are 9:16. Each clip is generated at the model's minimum (~5s), with th
 | # | Keyframe prompt | Keyframe id | Motion prompt | Model | Gen dur | Clip id | Trim in/out | OK? |
 |---|---|---|---|---|---|---|---|---|
 
-Credits quoted: ___ · Credits spent: ___
+Credits quoted: 120–200 (cap 200) · Credits spent: 2.75
 
 ## 6. Reference assets
 - assets/ref/smokey-01..10.jpg — 10 real photos of Smokey (identity source for the character sheet; feed 01, 06, 07 as primary references)
