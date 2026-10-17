@@ -1,6 +1,6 @@
 # FILM: Smokey — The Morning
 
-Status: ▶ In production (Oct 2026 credits) · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ☑ Sheet ☑ Plates ◐ Keyframes (awaiting review) ☐ Clips ☐ Cut
+Status: ✅ v1 delivered 17 Oct 2026 · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ☑ Sheet ☑ Plates ☑ Keyframes ☑ Clips ☑ Cut (v1)
 
 ## 0. Brief Card
 - Title: Smokey — The Morning
@@ -129,17 +129,23 @@ Plates (gpt_image_2_5, 9:16, high, 2k, 2.75 cr each):
 
 | # | Keyframe id | Refs | Model | Gen dur | Clip id | Trim in/out | OK? |
 |---|---|---|---|---|---|---|---|
-| 1 | fe24e421-b969-42b3-a0b2-fbe6178deaf5 | L2 plate | kling3_0 pro | 5s | | →2.500 | |
-| 2 | a15d8393-6d5d-4281-908c-5abc15354319 | L2 plate | kling3_0 pro | 5s | | →1.875 | |
-| 3 | eaa397a9-cdce-437c-9020-b7b2d93fa587 | L2 plate | kling3_0 pro | 5s | | →1.250 | |
-| 4 | 05230761-60bb-439b-bd2a-4c79f4376d76 | sheet + L3 | kling3_0 pro | 5s | | →3.125 | |
-| 5 | de4c57a0-c736-47cd-a50f-2e4bc7de9d4b | sheet + L3 | kling3_0 pro | 5s | | →3.125 | |
-| 6 | a004337f-af5f-4528-a487-28a238e589da | sheet + L3 | kling3_0 pro | 5s | | →3.125 | |
+| 1 | fe24e421-b969-42b3-a0b2-fbe6178deaf5 | L2 plate | kling3_0 pro | 5s | 7b65cd1c-6c95-483f-a033-16c9db0b7ea0 | 0.000–2.500 | ✓ |
+| 2 | a15d8393-6d5d-4281-908c-5abc15354319 | L2 plate | kling3_0 pro | 5s | f1fec607-7726-4491-8cda-73b3faa3c37c | 0.500–2.375 | ✓ |
+| 3 | eaa397a9-cdce-437c-9020-b7b2d93fa587 | L2 plate | kling3_0 pro | 5s | 5b77e8b3-43a4-4092-9a4d-7925e11a353a | 0.200–1.450 | ✓ |
+| 4 | 05230761-60bb-439b-bd2a-4c79f4376d76 | sheet + L3 | kling3_0 pro | 5s | 8effa5f4-8bd0-4d5e-b0a2-a5e9b1f85e5a | 0.500–3.625 | ✓ |
+| 5 | de4c57a0-c736-47cd-a50f-2e4bc7de9d4b | sheet + L3 | kling3_0 pro | 5s | 1db668f5-2fff-44cc-914a-d8c04cb7611d | 1.000–4.125 | ✓ |
+| 6 | a004337f-af5f-4528-a487-28a238e589da | sheet + L3 | kling3_0 pro | 5s | 57a82ae3-3f8f-40d5-b752-c50208fb647d | 0.600–3.725 | ✓ |
 
 Clip price check (5s, 9:16, silent): kling3_0 pro 8.75 · kling3_0 4k 30 · seedance_2_0 fast 720p 12.5 · seedance_2_0 std 1080p 60
 VO price check: seed_audio preset "Arthur" 0.4
 
-Credits quoted: 120–200 (cap 200) · Credits spent: 24.75 (sheet 2.75 + plates 5.5 + keyframes 16.5)
+Clips: kling3_0 pro, 9:16, 5s, silent, 8.75 cr each (52.5). Shots 4–5 needed a resubmit with declined_preset_id (no extra charge).
+VO: seed_audio preset "Arthur" (30fc8796-ceb6-4a66-b3a7-4a145ef7f346), speech_rate -3 — L1 job 7b6b3ec2-698e-4c78-a7db-1cbebe051b5d (2.84s) @ 6.00s · L2 job de0be339-85cb-4fba-a3c7-4f060d84ec69 (1.83s) @ 9.40s
+Assembly: Higgsfield sandbox ffmpeg, 1080×1920 24fps h264 crf17, hard cuts on the 96 BPM grid, 14.96s.
+Outputs: VO version media 8850bc49-d875-4c82-841c-25e214720254 · silent version media d8685b8c-c94a-4f19-8eb3-386c982f36cf
+Music: none baked in — add TikTok sound in-app; drop at 5.6s, chord at 12.8s.
+
+Credits quoted: 120–200 (cap 200) · Credits spent: ≈78 (sheet 2.75 + plates 5.5 + keyframes 16.5 + clips 52.5 + VO ~0.8)
 
 ## 6. Reference assets
 - assets/ref/smokey-01..10.jpg — 10 real photos of Smokey (identity source for the character sheet; feed 01, 06, 07 as primary references)
