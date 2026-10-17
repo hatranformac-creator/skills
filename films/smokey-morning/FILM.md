@@ -1,6 +1,6 @@
 # FILM: Smokey — The Morning
 
-Status: ⏸ Deferred to after 11 Nov 2026 credit renewal · ☑ Brief ☑ World ◐ Character (needs photos) ☑ Shots ☑ Master Prompt ☐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
+Status: ⏸ Deferred to after 11 Nov 2026 credit renewal · ☑ Brief ☑ World ☑ Character ☑ Shots ☑ Master Prompt ☐ Sheet ☐ Plates ☐ Keyframes ☐ Clips ☐ Cut
 
 ## 0. Brief Card
 - Title: Smokey — The Morning
@@ -31,19 +31,19 @@ Locations
 
 Palette (HEX): #F6C453 sun gold · #E3C08D honey stone · #A9D3F0 morning sky · #F7F3EA sash white · #8C8780 cobble grey · #6B4E3A warm shadow · #D94A3A geranium red · #7A2E3A burgundy velvet
 
-## 2. Character Bible  (DRAFT — locks when Smokey's photos arrive)
-CHARACTER LINE: Smokey, an adult male domestic cat with a mature broad face and full jowly cheeks, large sturdy well-fed build, short dense plush [COAT: smoky blue-grey — TBD from photos] fur, round [EYES: copper-amber — TBD] eyes, long white whiskers, thick plush tail, no collar.
+## 2. Character Bible  (LOCKED from 10 reference photos — assets/ref/)
+CHARACTER LINE: Smokey, an adult male British Shorthair cat, stocky heavy-set build with short sturdy legs and round paws, broad round head with full chubby cheeks and a short wide muzzle, small rounded wide-set ears, solid slate blue-grey dense plush short coat, large round yellow-gold eyes, dark charcoal-grey nose, long pale whiskers, thick medium-length tail, no collar.
 
 Personality line: Personality: unbothered, wise, drily sarcastic. Moves: slow, deliberate, never hurries — a monarch, not a pet. Under pressure: blinks slowly and yawns.
 
 | Slot | Answer |
 |---|---|
 | Identity | Smokey, adult male house cat, self-appointed philosopher-king of the street |
-| Signature features | Broad mature face, plush coat, half-lidded "unimpressed" eyes. ONE identifying mark: TBD from photos (e.g. white chin patch, nicked ear) |
+| Signature features | Broad round British Shorthair face, chubby cheeks, yellow-gold eyes, permanently "unimpressed" half-lidded resting expression. ONE identifying mark: the blep — a tiny pink tongue tip poking out when he dozes (seen in 4 of 10 photos) |
 | Wardrobe (head-to-toe) | None — real cat, no collar or clothes (keeps it hyper-real and keeps identity on the face/coat) |
 | Props (and where carried) | Burgundy velvet cushion he sits on; red geranium pot to his left |
 | 4 key emotions | Unbothered stillness · half-lidded judgement · slow blink (wisdom) · enormous yawn (the punchline) |
-| Reference views | front / 3/4 / side / back / face CU — from the user's photos |
+| Reference views | assets/ref/smokey-01 (front, alert) · 06 (front CU, wide eyes) · 07 (3/4 side, full body) · 09/10 (side, lying) · 05 (top-down, back) · 02/04/08 (sleepy blep) · 03 (curled) |
 
 Voice: dry, posh British male, slow, low, unhurried — voice-over (mouth closed), not lip-sync. Talking real cats usually look creepy; a narrator voice over a still cat is funnier and more "epic".
 
@@ -52,7 +52,7 @@ Continuity table:
 |---|---|---|
 | Seated upright on cushion, facing screen-left | 4 | — |
 | Eyes half-lidded | 5 | — |
-| Yawn → chin settles on paws, eyes closed | 6 | final state |
+| Yawn → chin settles on paws, eyes closed, tiny pink tongue tip left poking out (the blep) | 6 | final state — the last frame |
 
 Approved character sheet: _pending (generate next month)_
 
@@ -106,16 +106,16 @@ Keyframes are 9:16. Each clip is generated at the model's minimum (~5s), with th
 - Motion: Static macro — the wrist flicks up into frame, the second hand ticks once, sunlight glints across the glass. Sudden, crisp, cinematic.
 
 **Shot 4**
-- Keyframe: Medium-wide low-angle shot looking up, 35mm lens, Smokey, an adult male domestic cat with a mature broad face and full jowly cheeks, large sturdy well-fed build, short dense plush [COAT: smoky blue-grey — TBD from photos] fur, round [EYES: copper-amber — TBD] eyes, long white whiskers, thick plush tail, no collar, seated perfectly upright and still on a burgundy velvet cushion on a top-floor stone windowsill beside an open white sash window and a red geranium pot, facing screen-left and looking down at the street, calm unbothered expression, strong golden backlight rim around his fur, A sunlit London-inspired city on a golden-hour morning, honey-stone Georgian townhouses with white sash windows and red geraniums, cobbled streets and rooftops shared by hurrying humans and street cats, warm low sun raking down the street, soft haze and gold dust motes in the air, hyper-real cinematic, bright golden-hour grade with warm amber highlights and soft sky-blue shadows, lifted blacks, gentle 35mm grain, anamorphic lens flares, shallow depth of field, 9:16 vertical frame, no text, no watermark
+- Keyframe: Medium-wide low-angle shot looking up, 35mm lens, Smokey, an adult male British Shorthair cat, stocky heavy-set build with short sturdy legs and round paws, broad round head with full chubby cheeks and a short wide muzzle, small rounded wide-set ears, solid slate blue-grey dense plush short coat, large round yellow-gold eyes, dark charcoal-grey nose, long pale whiskers, thick medium-length tail, no collar, seated perfectly upright and still on a burgundy velvet cushion on a top-floor stone windowsill beside an open white sash window and a red geranium pot, facing screen-left and looking down at the street, calm unbothered expression, strong golden backlight rim around his fur, A sunlit London-inspired city on a golden-hour morning, honey-stone Georgian townhouses with white sash windows and red geraniums, cobbled streets and rooftops shared by hurrying humans and street cats, warm low sun raking down the street, soft haze and gold dust motes in the air, hyper-real cinematic, bright golden-hour grade with warm amber highlights and soft sky-blue shadows, lifted blacks, gentle 35mm grain, anamorphic lens flares, shallow depth of field, 9:16 vertical frame, no text, no watermark
 - Motion: Camera cranes up from the busy street to the top-floor window and settles on the cat — the cat stays completely still, only his whiskers stir in the breeze, dust motes glow. Slow, smooth, epic cinematic, consistent character.
 
 **Shot 5**
-- Keyframe: Medium close-up, eye level, 85mm lens, Smokey, an adult male domestic cat with a mature broad face and full jowly cheeks, large sturdy well-fed build, short dense plush [COAT: smoky blue-grey — TBD from photos] fur, round [EYES: copper-amber — TBD] eyes, long white whiskers, thick plush tail, no collar, seated on the velvet cushion on the windowsill, gazing down at the street below, half-lidded wise and unimpressed expression, golden rim light on his fur, blurred honey-stone townhouses and bright haze behind, hyper-real cinematic, bright golden-hour grade with warm amber highlights and soft sky-blue shadows, lifted blacks, gentle 35mm grain, anamorphic lens flares, shallow depth of field, 9:16 vertical frame, no text, no watermark
+- Keyframe: Medium close-up, eye level, 85mm lens, Smokey, an adult male British Shorthair cat, stocky heavy-set build with short sturdy legs and round paws, broad round head with full chubby cheeks and a short wide muzzle, small rounded wide-set ears, solid slate blue-grey dense plush short coat, large round yellow-gold eyes, dark charcoal-grey nose, long pale whiskers, thick medium-length tail, no collar, seated on the velvet cushion on the windowsill, gazing down at the street below, half-lidded wise and unimpressed expression, golden rim light on his fur, blurred honey-stone townhouses and bright haze behind, hyper-real cinematic, bright golden-hour grade with warm amber highlights and soft sky-blue shadows, lifted blacks, gentle 35mm grain, anamorphic lens flares, shallow depth of field, 9:16 vertical frame, no text, no watermark
 - Motion: Very slow push-in — the cat holds still, then gives one slow, deliberate blink; ears twitch slightly at the street noise. Calm, still, cinematic, consistent character, mouth closed.
 
 **Shot 6**
-- Keyframe: Close-up, eye level, 85mm lens, Smokey, an adult male domestic cat with a mature broad face and full jowly cheeks, large sturdy well-fed build, short dense plush [COAT: smoky blue-grey — TBD from photos] fur, round [EYES: copper-amber — TBD] eyes, long white whiskers, thick plush tail, no collar, on the velvet cushion on the windowsill, mid-yawn at its widest, mouth wide open, eyes squeezed shut, whiskers fanned forward, warm golden backlight, soft blurred street behind, hyper-real cinematic, bright golden-hour grade with warm amber highlights and soft sky-blue shadows, lifted blacks, gentle 35mm grain, anamorphic lens flares, shallow depth of field, 9:16 vertical frame, no text, no watermark
-- Motion: Static camera — the cat opens into a huge slow yawn, then lowers his chin onto his front paws and closes his eyes contentedly. Slow, natural cat physics, cinematic, consistent character.
+- Keyframe: Close-up, eye level, 85mm lens, Smokey, an adult male British Shorthair cat, stocky heavy-set build with short sturdy legs and round paws, broad round head with full chubby cheeks and a short wide muzzle, small rounded wide-set ears, solid slate blue-grey dense plush short coat, large round yellow-gold eyes, dark charcoal-grey nose, long pale whiskers, thick medium-length tail, no collar, on the velvet cushion on the windowsill, mid-yawn at its widest, mouth wide open, eyes squeezed shut, whiskers fanned forward, warm golden backlight, soft blurred street behind, hyper-real cinematic, bright golden-hour grade with warm amber highlights and soft sky-blue shadows, lifted blacks, gentle 35mm grain, anamorphic lens flares, shallow depth of field, 9:16 vertical frame, no text, no watermark
+- Motion: Static camera — the cat opens into a huge slow yawn, then lowers his chin onto his front paws and closes his eyes contentedly, a tiny pink tongue tip left poking out. Slow, natural cat physics, cinematic, consistent character.
 
 **Music (generate_audio):** 15-second orchestral trailer cue at 96 BPM: rising strings and timpani from 0s, a brass hit at 4.4s, drop to a single held string note at 5.6s, full orchestral chord at 12.8s, ring out to 15s.
 **Voice-over (generate_audio / TTS):** Dry, slow, posh British male voice: "Humans chase time." [0.6s pause] "I simply let it come to me."
@@ -125,3 +125,7 @@ Keyframes are 9:16. Each clip is generated at the model's minimum (~5s), with th
 |---|---|---|---|---|---|---|---|---|
 
 Credits quoted: ___ · Credits spent: ___
+
+## 6. Reference assets
+- assets/ref/smokey-01..10.jpg — 10 real photos of Smokey (identity source for the character sheet; feed 01, 06, 07 as primary references)
+- assets/inspo/talking-cat-ref.mp4 — 7s AI lip-sync test the user made from photo 02 (828×1108). Decision pending: voice-over (planned) vs. lip-sync talking (as in this test).
